@@ -1,0 +1,19 @@
+/* Created by: Noah Smith
+* Created on: Apr 2023
+* This CSS file defines the style for index.html
+* ICS2O-Assign-04-HTML-BurritoOrder
+*/
+
+h1 {
+	background: red;
+  text-align: center;
+}
+	
+body { 
+	background: orange;
+}
+
+h3 { 
+	background: red;
+  text-align: center;
+}
